@@ -5,8 +5,7 @@
 
 - 👨‍ I’m a data solution architect specialized in distributed systems ( cloud, bigdata ... )
 - 💬 In this github you'll mainly find code examples & tests and occasionaly full projects.
-- 👯 I’m looking to collaborate on innovative projects specially in the distributed systems or AI  projects
-- 📫 You can reach me at mehdi@tazimehdi.com / http://itinsight.fr / http://tazimehdi.com / https://fr.linkedin.com/in/mehditazi85
-
+- 👯 I’m looking to collaborate on innovative projects specially in the distributed systems or Data related projects
+- 📫 You can reach me at mehdi@tazimehdi.com || http://tazimehdi.com || https://fr.linkedin.com/in/mehditazi85 || https://medium.com/@mehdi.tazi || http://itinsight.fr 
 
 
